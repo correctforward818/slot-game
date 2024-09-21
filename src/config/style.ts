@@ -12,7 +12,7 @@ export const winTextStyle = new PIXI.TextStyle({
     fontFamily: 'Arial',
     fontSize: 128,
     fontWeight: 'bold',
-    fill: ['#ffffff', '#00ff99'], // gradient
+    fill: ['#fffffe', '#00ff99'], // gradient
     stroke: '#4a1850',
     strokeThickness: 2,
     dropShadow: true,
